@@ -1,0 +1,1 @@
+# Detector_Anomalias.app
